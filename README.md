@@ -1,2 +1,3 @@
-# Data-Mining-Project
-Predicting Hotel Cancellations
+# Predicting Hotel Cancellations
+Data-Mining-Project
+
